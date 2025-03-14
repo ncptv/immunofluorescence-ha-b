@@ -1,4 +1,4 @@
-# SOP-0002: Cell Transfection and Hemagglutinin-B Immunofluorescence Assay
+# Cell Transfection and Hemagglutinin-B Immunofluorescence Assay
 
 © 2025 Inceptive, licensed under the [**CC BY 4.0** license](https://creativecommons.org/licenses/by/4.0/).   
 
